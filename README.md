@@ -42,7 +42,7 @@ Additional files can be imported from source and stored in /data, for analysis a
 
 ` data/dimensions `:
 
-- [Airlines](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022) : /Airlines.csv
+- [Airlines](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022) : ` /Airlines.csv`
 
 - [Cancellation codes](https://www.transtats.bts.gov/FieldInfo.asp?Svryq_Qr5p=f2rpvsvr5%FDgur%FDern510%FDS14%FDPn0pryyn6v10&Svryq_gB2r=Pun4&Y11x72_gnoyr=Y_PNaPRYYNgVba&gnoyr_VQ=FGK&flf_gnoyr_anzr=g_bagVZR_ZNeXRgVaT&fB5_Svryq_anzr=PNaPRYYNgVba_PbQR)
 
@@ -50,7 +50,7 @@ Additional files can be imported from source and stored in /data, for analysis a
 
 ## Usage <a name = "usage"></a>
 
-Data extraction, preparation analysis is done on the workbook ´flight_analysis.ipynb'. 
+Data extraction, preparation analysis is done on the workbook ` flight_analysis.ipynb `. 
 
 ## License
 Code released under the [MIT License](https://github.com/apt-getdiana/usa_flights/blob/main/LICENSE).
