@@ -32,13 +32,17 @@ I recommend using the [Anaconda Distribution](https://www.anaconda.com/products/
 
 The used datasets and their sources are:
 
-data/flights:
+` data/flights `:
 
 - [Flights](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022) 
 
-data/dimensions:
+The files included in repository due to Github storage limitations are raw/Flights_2021_1 to raw/Flights_2021_6, which correspond to the raw data from january 2021 to june 2021.
 
-- [Airlines](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022) 
+Additional files can be imported from source and stored in /data, for analysis and [article](https://medium.com/@dianags1811/all-you-need-to-know-to-avoid-a-flight-delay-ae78971c440c) Flights_2021_1 to Flights_2021_12 were used. 
+
+` data/dimensions `:
+
+- [Airlines](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022) : ` /Airlines.csv`
 
 - [Cancellation codes](https://www.transtats.bts.gov/FieldInfo.asp?Svryq_Qr5p=f2rpvsvr5%FDgur%FDern510%FDS14%FDPn0pryyn6v10&Svryq_gB2r=Pun4&Y11x72_gnoyr=Y_PNaPRYYNgVba&gnoyr_VQ=FGK&flf_gnoyr_anzr=g_bagVZR_ZNeXRgVaT&fB5_Svryq_anzr=PNaPRYYNgVba_PbQR)
 
@@ -46,7 +50,7 @@ data/dimensions:
 
 ## Usage <a name = "usage"></a>
 
-Data extraction, preparation analysis is done on the workbook ´flight_analysis.ipynb'. 
+Data extraction, preparation analysis is done on the workbook ` flight_analysis.ipynb `. 
 
 ## License
 Code released under the [MIT License](https://github.com/apt-getdiana/usa_flights/blob/main/LICENSE).
